@@ -1,0 +1,23 @@
+.pagination {
+    list-style: none;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    margin: 8px;
+    padding: 8px;
+    color: red;
+    background-color: white;
+    cursor: pointer
+}
+
+a:hover {
+    background-color: blue;
+}
+
+.active {
+    background-color: red;
+}

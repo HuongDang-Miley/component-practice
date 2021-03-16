@@ -1,0 +1,27 @@
+.classComponent, .functionComponent{
+    background-color: antiquewhite;
+    padding: 16px;
+    width: 70%;
+    margin: auto;
+    margin-top: 16px;
+    text-align: center;
+}
+
+
+.card {
+    padding: 16px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 16px;
+}
+
+
+.delete-button {
+    float: right;
+}
+
+input {
+    margin-bottom: 24px;
+    margin-right: 16px;
+    margin-left: 8px;
+}

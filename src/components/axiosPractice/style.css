@@ -1,0 +1,26 @@
+.classComponent, .functionComponent{
+    background-color: antiquewhite;
+    padding: 16px;
+    width: 70%;
+    margin: auto;
+    margin-top: 16px;
+    text-align: left;
+}
+
+.card {
+    background-color: white;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 16px;
+    text-align: left;
+}
+
+h6 {
+    text-align: left;
+}
+
+img {
+    width: 200px;
+    margin: auto;
+}

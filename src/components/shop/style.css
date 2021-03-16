@@ -1,0 +1,48 @@
+.classComponent, .functionComponent{
+    padding: 16px;
+    width: 70%;
+    margin: auto;
+    margin-top: 16px;
+    text-align: center;
+}
+.function{
+    background-color: rgb(0, 157, 255);
+}
+.class{
+    background-color: antiquewhite;
+}
+
+.card {
+    padding: 16px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 16px;
+}
+
+h6 {
+    text-align: left;
+    color: red
+}
+
+img {
+    width: 200px;
+    margin: auto;
+}
+
+.delete-button {
+    float: right;
+}
+
+.child{
+    background-color: lightpink;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 16px;
+}
+
+button {
+    margin-bottom: 16px;
+}

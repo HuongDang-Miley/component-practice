@@ -25,6 +25,8 @@ import DeletePractice from './components/deletePractice/DeletePractice.js'
 import PaginationParent from './components/pagination/PaginationParent.js'
 import CssPlayground from './components/cssPlayground/CssPlayground.js'
 import HookParent from './components/hooks/HookParent.js'
+import HookParentReducer from './components/hooks/HookParentReducer.js'
+import Counter from './components/counters/Counter.js'
 
 
 class App extends Component {
@@ -51,7 +53,9 @@ class App extends Component {
       <div className="App">
         <h1>Practice Components</h1>
         <h2>{this.state.currentNum}</h2>
-        <HookParent />
+        <HookParentReducer />
+        <Counter />
+        {/* <HookParent /> */}
         <CssPlayground />
         <PaginationParent />
         <DeletePractice />

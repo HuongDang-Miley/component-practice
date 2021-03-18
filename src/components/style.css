@@ -34,9 +34,16 @@ img {
 }
 
 .child{
-    background-color: lightpink;
+    /* background-color: lightgray; */
+    padding: 24px;
+    text-align: center;
 }
 
 .inputBase {
 background-color: aqua;
+}
+
+.deleteBtn {
+    
+    float: right
 }
